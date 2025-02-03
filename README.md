@@ -13,5 +13,5 @@ This project is a deep learning-based **Automated Meeting Summarizer** that conv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Automated-Meeting-Summarizer.git
+   git clone https://github.com/deviprasannakakaraparthi/Automated-Meeting-Summarizer.git
    cd Automated-Meeting-Summarizer/backend
